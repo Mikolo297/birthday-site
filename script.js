@@ -1,9 +1,9 @@
 // Add your image links here:
 let images = [
-    "img/WhatsApp Image 2025-11-28 at 12.18.55 AM.jpeg",
-    "img/WhatsApp Image 2025-11-28 at 12.18.56 AM (1).jpeg",
-    "img/WhatsApp Image 2025-11-28 at 12.18.56 AM (2).jpeg",
-    "img/WhatsApp Image 2025-11-28 at 12.18.56 AM.jpeg"
+    "WhatsApp Image 2025-11-28 at 12.18.55 AM.jpeg",
+    "WhatsApp Image 2025-11-28 at 12.18.56 AM (1).jpeg",
+    "WhatsApp Image 2025-11-28 at 12.18.56 AM (2).jpeg",
+    "WhatsApp Image 2025-11-28 at 12.18.56 AM.jpeg"
 ];
 
 let index = 0;
